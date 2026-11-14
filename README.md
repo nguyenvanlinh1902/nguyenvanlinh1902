@@ -3,8 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:linhnguyenvan1902@gmail.com"><img src="https://img.shields.io/badge/email-linhnguyenvan1902%40gmail.com-0b1020?style=flat-square&labelColor=38bdf8&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/nguyenvanlinh1902"><img src="https://img.shields.io/badge/github-nguyenvanlinh1902-0b1020?style=flat-square&labelColor=a78bfa&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam-0b1020?style=flat-square&logo=googlemaps&logoColor=white&labelColor=34d399&label=location" />
+  <img src="https://img.shields.io/badge/%2B84%20964%20236%20385-0b1020?style=flat-square&logo=phone&logoColor=white&labelColor=22c55e&label=phone" />
+  <a href="mailto:linhnguyenvan1902@gmail.com"><img src="https://img.shields.io/badge/linhnguyenvan1902%40gmail.com-0b1020?style=flat-square&logo=gmail&logoColor=white&labelColor=ea4335&label=email" /></a>
+  <a href="https://www.facebook.com/nguyen.van.linh.601870"><img src="https://img.shields.io/badge/Nguy%E1%BB%85n%20V%C4%83n%20Linh-0b1020?style=flat-square&logo=facebook&logoColor=white&labelColor=1877f2&label=facebook" /></a>
+  <a href="https://github.com/nguyenvanlinh1902"><img src="https://img.shields.io/badge/nguyenvanlinh1902-0b1020?style=flat-square&logo=github&logoColor=white&labelColor=6e5494&label=github" /></a>
 </p>
 
 <br/>
@@ -76,6 +79,13 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 
 <br/>
 
-<p align="center">
-  <sub>Reach me at <a href="mailto:linhnguyenvan1902@gmail.com">linhnguyenvan1902@gmail.com</a></sub>
-</p>
+## Contact
+
+<table>
+  <tr><td>📍 <b>Location</b></td><td>Hà Nội, Việt Nam</td></tr>
+  <tr><td>📞 <b>Phone</b></td><td>+84 964 236 385</td></tr>
+  <tr><td>✉️ <b>Email</b></td><td><a href="mailto:linhnguyenvan1902@gmail.com">linhnguyenvan1902@gmail.com</a></td></tr>
+  <tr><td>💬 <b>Facebook</b></td><td><a href="https://www.facebook.com/nguyen.van.linh.601870">facebook.com/nguyen.van.linh.601870</a></td></tr>
+  <tr><td>🐙 <b>GitHub</b></td><td><a href="https://github.com/nguyenvanlinh1902">github.com/nguyenvanlinh1902</a></td></tr>
+</table>
+
