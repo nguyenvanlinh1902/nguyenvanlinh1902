@@ -27,6 +27,14 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 
 <br/>
 
+## Education
+
+<p align="center">
+  <img src="assets/education.svg" width="100%" alt="Engineer's degree in Information Technology, Academy of Cryptography Techniques (Học viện Kỹ thuật Mật mã), Hanoi" />
+</p>
+
+<br/>
+
 ## Projects
 
 <table>
