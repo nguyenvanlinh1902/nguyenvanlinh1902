@@ -56,14 +56,6 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 
 <br/>
 
-## Open source
-
-| | Project | Notes |
-|---|---|---|
-| 📄 | [**pdf-squeeze**](https://github.com/nguyenvanlinh1902/pdf-squeeze) | Chrome extension that compresses PDFs on-device with Ghostscript WASM. Nothing is uploaded. |
-
-<br/>
-
 ## Stack
 
 <p>
