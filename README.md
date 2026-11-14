@@ -22,7 +22,7 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 ## Experience
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Experience: Magento 2 developer at Mageplaza from May 2021, Magento 2 team leader at Mageplaza 2023 to July 2024, Shopify app developer at Avada July 2024 to August 2025, team leader since August 2025" />
+  <img src="assets/experience.svg" width="100%" alt="Experience: Magento 2 developer at Mageplaza from May 2021, Magento 2 team leader at Mageplaza 2023 to July 2024, Shopify app developer at Avada Group July 2024 to August 2025, team leader at Avada Group since August 2025" />
 </p>
 
 <br/>
@@ -30,7 +30,7 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 ## Education
 
 <p align="center">
-  <img src="assets/education.svg" width="100%" alt="Engineer's degree in Information Technology, Academy of Cryptography Techniques (Học viện Kỹ thuật Mật mã), Hanoi" />
+  <img src="assets/education.svg" width="100%" alt="Engineer's degree in Information Technology, Academy of Cryptography Techniques (Học viện Kỹ thuật Mật mã), Hanoi, class of 2025" />
 </p>
 
 <br/>

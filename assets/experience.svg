@@ -10,12 +10,13 @@
 <circle cx="300" cy="62" r="13" fill="#34d399" opacity=".25" class="pulse"/>
 <circle cx="300" cy="62" r="7" fill="#0b1020" stroke="#34d399" stroke-width="3"/>
 <text x="336" y="70" class="s" font-size="22" font-weight="700" fill="#f8fafc">Team Leader</text>
-<text x="336" y="98" class="s" font-size="16" fill="#94a3b8">Lead a development team: architecture, planning, code review and delivery</text>
+<text x="336" y="96" class="s" font-size="16" font-weight="600" fill="#34d399">Avada Group</text>
+<text x="336" y="122" class="s" font-size="16" fill="#94a3b8">Lead a development team: architecture, planning, code review and delivery</text>
 <g transform="translate(485.5,52)"><rect width="56" height="24" rx="12" fill="#34d399" fill-opacity=".15" stroke="#34d399" stroke-opacity=".5"/><text x="28" y="16" text-anchor="middle" class="m" font-size="12" fill="#34d399">now</text></g>
 <text x="268" y="192" text-anchor="end" class="m" font-size="15" fill="#94a3b8">Jul 2024 — Aug 2025</text>
 <circle cx="300" cy="186" r="7" fill="#0b1020" stroke="#38bdf8" stroke-width="3"/>
 <text x="336" y="194" class="s" font-size="22" font-weight="700" fill="#f8fafc">Shopify App Developer</text>
-<text x="336" y="220" class="s" font-size="16" font-weight="600" fill="#38bdf8">Avada · spun off from Mageplaza</text>
+<text x="336" y="220" class="s" font-size="16" font-weight="600" fill="#38bdf8">Avada Group · spun off from Mageplaza</text>
 <text x="336" y="246" class="s" font-size="16" fill="#94a3b8">Built apps end to end: backend, admin UI, billing and app review</text>
 <text x="268" y="316" text-anchor="end" class="m" font-size="15" fill="#94a3b8">2023 — Jul 2024</text>
 <circle cx="300" cy="310" r="7" fill="#0b1020" stroke="#a78bfa" stroke-width="3"/>
