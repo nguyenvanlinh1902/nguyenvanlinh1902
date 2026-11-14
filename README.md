@@ -22,7 +22,7 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 ## Experience
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Experience: Magento 2 developer from May 2021, Magento team leader 2023 to July 2024, Shopify app developer July 2024 to August 2025, team leader since August 2025" />
+  <img src="assets/experience.svg" width="100%" alt="Experience: Magento 2 developer at Mageplaza from May 2021, Magento 2 team leader at Mageplaza 2023 to July 2024, Shopify app developer at Avada July 2024 to August 2025, team leader since August 2025" />
 </p>
 
 <br/>
