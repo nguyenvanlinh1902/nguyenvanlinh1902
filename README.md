@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Nguyễn Văn Linh — Full-stack engineer, Go, TypeScript, AI agent systems" />
+  <img src="assets/header.svg" width="100%" alt="Nguyễn Văn Linh — Full-stack engineer, Node.js, Firebase, React, TypeScript" />
 </p>
 
 <p align="center">
@@ -10,41 +10,56 @@
   <a href="https://github.com/nguyenvanlinh1902"><img src="https://img.shields.io/badge/nguyenvanlinh1902-0b1020?style=flat-square&logo=github&logoColor=white&labelColor=6e5494&label=github" /></a>
 </p>
 
+<p align="center">
+  <a href="cv/Nguyen-Van-Linh-CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-PDF-0b1020?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=f59e0b" alt="Download CV (PDF)" /></a>
+</p>
+
 <br/>
 
-## About
+## Summary
 
-I am a full-stack engineer and team leader with 5+ years in e-commerce, from Magento 2 to app development. I design, build, ship and operate products end to end — backend, web, desktop and mobile — and I keep them running in production.
-
-I also build and run a **multi-store commerce platform** for a client on **Firebase** and **BigQuery**, managing dozens of stores from one dashboard.
-
-Most of my recent work is in **Go** and **TypeScript**: APIs and background workers on Postgres, React front ends, a **Rust/Tauri** desktop app, and native mobile apps in **SwiftUI** and **Jetpack Compose**. I also built an **AI operations platform** where 70+ specialised agents handle support, QA, code review, security scans and releases, with a person approving only the decisions that matter.
-
-What I care about: typed APIs, honest migrations, CI that blocks bad merges, observability, backups and rollbacks.
+Full-stack engineer and team leader with **5+ years in e-commerce**. My daily stack is **Node.js and Firebase** (Cloud Functions, Firestore, Pub/Sub, BigQuery) with **React** on the front end; before that I spent three years on Magento 2 (PHP). I also build side services in **Go** and automate work with **AI agents**. I take products from design to production and lead teams through planning, code review and release.
 
 <br/>
 
 ## Experience
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Experience: Magento 2 developer at Mageplaza from May 2021, Magento 2 team leader at Mageplaza 2023 to July 2024, Shopify app developer at Avada Group July 2024 to August 2025, team leader at Avada Group since August 2025" />
+  <img src="assets/experience.svg" width="100%" alt="Experience timeline" />
 </p>
 
-<br/>
+**Team Leader** — Avada Group · *Aug 2025 – Present*
+- Lead a development team: break work into tasks, set technical direction and review every merge.
+- Own architecture and delivery of commerce apps on **Node.js, Firebase (Functions, Firestore, Pub/Sub) and React**, from spec to production.
+- Introduced AI-assisted workflows (agents for QA, code review and support) into the team's daily process.
 
-## Education
+**Shopify App Developer** — Avada Group (spun off from Mageplaza) · *Jul 2024 – Aug 2025*
+- Built Shopify apps end to end with **Node.js, Firebase Functions, Firestore and React/Polaris**.
+- Implemented OAuth, webhooks, billing and GDPR flows, and took apps through Shopify app review.
+- Worked with Shopify Admin GraphQL/REST APIs, bulk operations and theme app extensions.
 
-<p align="center">
-  <img src="assets/education.svg" width="100%" alt="Engineer's degree in Information Technology, Academy of Cryptography Techniques (Học viện Kỹ thuật Mật mã), Hanoi, class of 2025" />
-</p>
+**Magento 2 Team Leader** — Mageplaza · *2023 – Jul 2024*
+- Led the Magento team: task planning, estimates, code review and releases.
+- Kept extension quality consistent across versions and customer customisations.
+
+**Magento 2 Developer** — Mageplaza · *May 2021 – 2023*
+- Joined as an intern and grew into a developer on the Magento 2 extension team.
+- Built and maintained Magento 2 extensions and store customisations in **PHP, MySQL and JavaScript**.
 
 <br/>
 
 ## Projects
 
 <p align="center">
-  <img src="assets/card-multistore.svg" width="100%" alt="Multi-Store Commerce Platform: client project in production on Firebase Functions, Firestore, BigQuery and Pub/Sub, managing dozens of stores from one dashboard" />
+  <img src="assets/card-multistore.svg" width="100%" alt="Multi-Store Commerce Platform" />
 </p>
+
+**Multi-Store Commerce Platform** — client project, in production · *Node.js, Firebase Functions, Firestore, BigQuery, Pub/Sub, React, Polaris*
+- One dashboard to run many online stores: orders, products, tracking, finance and email in one place.
+- Cross-store orders with fulfilment, refunds and disputes (evidence PDF); bulk product import via bulk operations.
+- 17TRACK shipment sync with a public buyer tracking page; Google Sheets order sync.
+- BigQuery finance warehouse; AI inbox on Gmail/Outlook push; workflows, rule engine, Discord alerts and an MCP server.
+- Roles, store groups, MFA and audit logs; channels: Shopify, Etsy and Facebook.
 
 <table>
   <tr>
@@ -61,21 +76,48 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
   </tr>
 </table>
 
+- **AI Operations Platform** — 70+ specialised AI agents for support, QA, code review, security scans and releases, with human approval on key decisions. *TypeScript, Bun, SQLite, Claude.*
+- **Desktop Agent Runtime** — cross-platform desktop app with a durable job queue, offline SQLite and an MCP client. *Rust, Tauri 2.*
+- **Nhịp** — native mobile app (lunar calendar, spending, habits, trips) for iOS and Android with a Go API. *SwiftUI, Jetpack Compose, Go, Postgres.*
+- **Operations CRM** — tickets, inbound mail, customer timeline and approvals. *Go, Postgres, React.*
+- **Account Portal** — customer accounts with Google sign-in, TOTP 2FA and sessions. *Go, Postgres, React.*
+- **Mail Platform** — self-hosted email: campaigns, automated flows and delivery stats. *Go, Postal, Postgres.*
+
 <sub>Source code is private. Happy to walk through the architecture on a call.</sub>
 
 <br/>
 
-## Stack
+## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,php,react,bun,nodejs,firebase,gcp,rust,tauri,swift,kotlin,postgres,mysql,sqlite,redis,docker,linux,nginx,cloudflare,githubactions,gitlab&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,gcp,js,ts,react,go,php,bun,rust,tauri,swift,kotlin,postgres,mysql,sqlite,redis,docker,linux,nginx,cloudflare,githubactions&perline=11&theme=dark" />
 </p>
 
-**Backend** — Go (chi, pgx), TypeScript on Bun/Node, Firebase (Functions, Firestore), BigQuery, Pub/Sub, Postgres, SQLite, REST and GraphQL, OAuth, JWT, 2FA<br/>
-**E-commerce** — Magento 2 (custom modules, integrations), app development for commerce platforms<br/>
-**Apps** — React web apps, Rust + Tauri 2 desktop, SwiftUI (iOS), Jetpack Compose (Android)<br/>
-**AI** — Claude agents, MCP servers, agent evaluation and self-improvement loops<br/>
-**Ops** — Docker, VPS deploys with health checks and rollback, self-hosted mail (Postal), CI/CD, Sentry
+**Languages** — JavaScript (Node.js), TypeScript, PHP, SQL, Go; working knowledge of Rust, Swift, Kotlin<br/>
+**Backend (main)** — Node.js (Express), Firebase Cloud Functions, Firestore, Pub/Sub, BigQuery, Firebase Admin SDK, REST and GraphQL, OAuth, JWT, webhooks<br/>
+**Backend (also)** — Go (chi, pgx), Bun, PostgreSQL services<br/>
+**Frontend** — React, Vite, Shopify Polaris, HTML/CSS<br/>
+**E-commerce** — Magento 2 extensions, Shopify apps (Admin API, webhooks, billing, app review), multi-store operations<br/>
+**Data** — Firestore, PostgreSQL, MySQL, SQLite, Redis, BigQuery<br/>
+**AI** — Claude agents, MCP servers, agent evaluation loops<br/>
+**DevOps** — Docker, Linux VPS, Nginx, Cloudflare, CI/CD (GitHub Actions, GitLab CI), Sentry
+
+<br/>
+
+## Education
+
+<p align="center">
+  <img src="assets/education.svg" width="100%" alt="Academy of Cryptography Techniques" />
+</p>
+
+**Engineer's degree, Information Technology** — Academy of Cryptography Techniques (Học viện Kỹ thuật Mật mã), Hà Nội · *Graduated 2025*
+
+<br/>
+
+## Languages
+
+- **Vietnamese** — native
+- **English** — reading: comfortable with technical documentation, specs and API references
 
 <br/>
 
@@ -88,4 +130,3 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
   <tr><td>💬 <b>Facebook</b></td><td><a href="https://www.facebook.com/nguyen.van.linh.601870">facebook.com/nguyen.van.linh.601870</a></td></tr>
   <tr><td>🐙 <b>GitHub</b></td><td><a href="https://github.com/nguyenvanlinh1902">github.com/nguyenvanlinh1902</a></td></tr>
 </table>
-

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Nguyễn Văn Linh — CV</title>
+<style>
+  @page { size: A4; margin: 14mm 15mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 10pt/1.42 -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; color: #1f2937; }
+  h1 { font-size: 22pt; margin: 0; letter-spacing: -0.3px; color: #0b1020; }
+  .role { font-size: 11.5pt; color: #0369a1; font-weight: 600; margin: 2px 0 6px; }
+  .contact { font-size: 9.2pt; color: #374151; }
+  .contact span + span::before { content: " · "; color: #9ca3af; }
+  .contact a { color: #374151; text-decoration: none; }
+  h2 { font-size: 10.5pt; text-transform: uppercase; letter-spacing: 1.2px; color: #0369a1; border-bottom: 1.5px solid #0ea5e9; padding-bottom: 2px; margin: 13px 0 6px; }
+  .job { margin-bottom: 7px; break-inside: avoid; }
+  .job-head { display: flex; justify-content: space-between; gap: 12px; }
+  .job-title { font-weight: 700; color: #0b1020; }
+  .org { color: #374151; font-weight: 400; }
+  .date { color: #6b7280; white-space: nowrap; font-size: 9.3pt; }
+  .stack { color: #6b7280; font-style: italic; font-size: 9.2pt; }
+  ul { margin: 2px 0 0; padding-left: 16px; }
+  li { margin: 1px 0; }
+  p { margin: 0; }
+  .skills div { margin: 1px 0; }
+  .skills b { color: #0b1020; }
+  .keep { break-inside: avoid; }
+  h2 { break-after: avoid; }
+</style>
+</head>
+<body>
+  <h1>Nguyễn Văn Linh</h1>
+  <div class="role">Full-stack Engineer · Team Leader</div>
+  <div class="contact">
+    <span>Hà Nội, Việt Nam</span><span>+84 964 236 385</span><span><a href="mailto:linhnguyenvan1902@gmail.com">linhnguyenvan1902@gmail.com</a></span><span><a href="https://github.com/nguyenvanlinh1902">github.com/nguyenvanlinh1902</a></span><span><a href="https://www.facebook.com/nguyen.van.linh.601870">facebook.com/nguyen.van.linh.601870</a></span>
+  </div>
+
+  <h2>Summary</h2>
+  <p>Full-stack engineer and team leader with 5+ years in e-commerce. My daily stack is Node.js and Firebase (Cloud Functions, Firestore, Pub/Sub, BigQuery) with React on the front end; before that I spent three years on Magento 2 (PHP). I also build side services in Go and automate work with AI agents. I take products from design to production and lead teams through planning, code review and release.</p>
+
+  <h2>Experience</h2>
+  <div class="job">
+    <div class="job-head"><div class="job-title">Team Leader <span class="org">— Avada Group</span></div><div class="date">Aug 2025 – Present</div></div>
+    <ul>
+      <li>Lead a development team: break work into tasks, set technical direction and review every merge.</li>
+      <li>Own architecture and delivery of commerce apps on Node.js, Firebase (Functions, Firestore, Pub/Sub) and React, from spec to production.</li>
+      <li>Introduced AI-assisted workflows (agents for QA, code review and support) into the team's daily process.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-head"><div class="job-title">Shopify App Developer <span class="org">— Avada Group (spun off from Mageplaza)</span></div><div class="date">Jul 2024 – Aug 2025</div></div>
+    <ul>
+      <li>Built Shopify apps end to end with Node.js, Firebase Functions, Firestore and React/Polaris.</li>
+      <li>Implemented OAuth, webhooks, billing and GDPR flows, and took apps through Shopify app review.</li>
+      <li>Worked with Shopify Admin GraphQL/REST APIs, bulk operations and theme app extensions.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-head"><div class="job-title">Magento 2 Team Leader <span class="org">— Mageplaza</span></div><div class="date">2023 – Jul 2024</div></div>
+    <ul>
+      <li>Led the Magento team: task planning, estimates, code review and releases.</li>
+      <li>Kept extension quality consistent across versions and customer customisations.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-head"><div class="job-title">Magento 2 Developer <span class="org">— Mageplaza</span></div><div class="date">May 2021 – 2023</div></div>
+    <ul>
+      <li>Joined as an intern and grew into a developer on the Magento 2 extension team.</li>
+      <li>Built and maintained Magento 2 extensions and store customisations in PHP, MySQL and JavaScript.</li>
+    </ul>
+  </div>
+
+  <h2>Projects</h2>
+  <div class="job">
+    <div class="job-head"><div class="job-title">Multi-Store Commerce Platform <span class="org">— client project, in production</span></div></div>
+    <div class="stack">Node.js, Firebase Functions, Firestore, BigQuery, Pub/Sub, React, Polaris</div>
+    <ul>
+      <li>One dashboard to run many online stores: cross-store orders with fulfilment, refunds and disputes (evidence PDF); bulk product import.</li>
+      <li>17TRACK shipment sync with a public tracking page; Google Sheets order sync; BigQuery finance warehouse.</li>
+      <li>AI inbox on Gmail/Outlook push, workflows and rule engine, Discord alerts, MCP server; roles, MFA and audit logs.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-head"><div class="job-title">AI Operations Platform</div></div>
+    <div class="stack">TypeScript, Bun, SQLite, Claude</div>
+    <ul><li>70+ specialised AI agents for support, QA, code review, security scans and releases, with human approval on key decisions.</li></ul>
+  </div>
+  <div class="job">
+    <div class="job-head"><div class="job-title">Go platform services <span class="org">— CRM, account portal, mail platform</span></div></div>
+    <div class="stack">Go, PostgreSQL, React, Postal</div>
+    <ul><li>Tickets and inbound mail; customer accounts with Google sign-in and TOTP 2FA; self-hosted email with campaigns and delivery stats.</li></ul>
+  </div>
+  <div class="job">
+    <div class="job-head"><div class="job-title">Desktop &amp; mobile apps</div></div>
+    <div class="stack">Rust, Tauri 2, SwiftUI, Jetpack Compose, Go</div>
+    <ul><li>Desktop agent runtime with a durable job queue and offline SQLite; Nhịp, a native iOS/Android app with a Go API.</li></ul>
+  </div>
+
+  <section class="keep">
+  <h2>Skills</h2>
+  <div class="skills">
+    <div><b>Languages:</b> JavaScript (Node.js), TypeScript, PHP, SQL, Go; working knowledge of Rust, Swift, Kotlin</div>
+    <div><b>Backend (main):</b> Node.js (Express), Firebase Cloud Functions, Firestore, Pub/Sub, BigQuery, Firebase Admin SDK, REST, GraphQL, OAuth, JWT, webhooks</div>
+    <div><b>Backend (also):</b> Go (chi, pgx), Bun, PostgreSQL services</div>
+    <div><b>Frontend:</b> React, Vite, Shopify Polaris, HTML/CSS</div>
+    <div><b>E-commerce:</b> Magento 2 extensions, Shopify apps (Admin API, webhooks, billing, app review), multi-store operations</div>
+    <div><b>Data:</b> Firestore, PostgreSQL, MySQL, SQLite, Redis, BigQuery</div>
+    <div><b>AI &amp; DevOps:</b> Claude agents, MCP; Docker, Linux, Nginx, Cloudflare, GitHub Actions, GitLab CI, Sentry</div>
+  </div>
+  </section>
+
+  <h2>Education</h2>
+  <div class="job-head"><div class="job-title">Engineer's degree, Information Technology <span class="org">— Academy of Cryptography Techniques (Học viện Kỹ thuật Mật mã), Hà Nội</span></div><div class="date">2025</div></div>
+
+  <h2>Languages</h2>
+  <p>Vietnamese — native · English — reading: comfortable with technical documentation, specs and API references</p>
+</body>
+</html>
