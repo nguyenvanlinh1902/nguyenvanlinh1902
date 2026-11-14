@@ -13,6 +13,8 @@
 
 I am a full-stack engineer and team leader with 5+ years in e-commerce, from Magento 2 to app development. I design, build, ship and operate products end to end — backend, web, desktop and mobile — and I keep them running in production.
 
+I also build and run a **multi-store commerce platform** for a client on **Firebase** and **BigQuery**, managing dozens of stores from one dashboard.
+
 Most of my recent work is in **Go** and **TypeScript**: APIs and background workers on Postgres, React front ends, a **Rust/Tauri** desktop app, and native mobile apps in **SwiftUI** and **Jetpack Compose**. I also built an **AI operations platform** where 70+ specialised agents handle support, QA, code review, security scans and releases, with a person approving only the decisions that matter.
 
 What I care about: typed APIs, honest migrations, CI that blocks bad merges, observability, backups and rollbacks.
@@ -37,6 +39,10 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 
 ## Projects
 
+<p align="center">
+  <img src="assets/card-multistore.svg" width="100%" alt="Multi-Store Commerce Platform: client project in production on Firebase Functions, Firestore, BigQuery and Pub/Sub, managing dozens of stores from one dashboard" />
+</p>
+
 <table>
   <tr>
     <td width="50%"><img src="assets/card-hub.svg" width="100%" alt="AI Operations Platform" /></td>
@@ -59,10 +65,10 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,php,react,bun,nodejs,rust,tauri,swift,kotlin,postgres,mysql,sqlite,redis,docker,linux,nginx,cloudflare,githubactions,gitlab&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,ts,php,react,bun,nodejs,firebase,gcp,rust,tauri,swift,kotlin,postgres,mysql,sqlite,redis,docker,linux,nginx,cloudflare,githubactions,gitlab&perline=11&theme=dark" />
 </p>
 
-**Backend** — Go (chi, pgx), TypeScript on Bun/Node, Postgres, SQLite, REST and GraphQL, OAuth, JWT, 2FA<br/>
+**Backend** — Go (chi, pgx), TypeScript on Bun/Node, Firebase (Functions, Firestore), BigQuery, Pub/Sub, Postgres, SQLite, REST and GraphQL, OAuth, JWT, 2FA<br/>
 **E-commerce** — Magento 2 (custom modules, integrations), app development for commerce platforms<br/>
 **Apps** — React web apps, Rust + Tauri 2 desktop, SwiftUI (iOS), Jetpack Compose (Android)<br/>
 **AI** — Claude agents, MCP servers, agent evaluation and self-improvement loops<br/>
