@@ -18,7 +18,7 @@
 
 ## Summary
 
-Full-stack engineer and team leader with **5+ years in e-commerce**. My daily stack is **Node.js and Firebase** (Cloud Functions, Firestore, Pub/Sub, BigQuery) with **React** on the front end; before that I spent three years on Magento 2 (PHP). I also build side services in **Go** and automate work with **AI agents**. I take products from design to production and lead teams through planning, code review and release.
+Full-stack engineer and team leader with **5+ years in e-commerce**. My daily stack is **Node.js and Firebase** (Cloud Functions, Firestore, Pub/Sub, BigQuery) with **React** on the front end; before that I spent three years on Magento 2 (PHP). Outside my full-time role I build freelance services in **Go** and automate work with **AI agents**. I take products from design to production and lead teams through planning, code review and release.
 
 <br/>
 
@@ -48,13 +48,15 @@ Full-stack engineer and team leader with **5+ years in e-commerce**. My daily st
 
 <br/>
 
-## Projects
+## Freelance &amp; side projects
+
+<sub>Built outside my full-time role at Avada Group.</sub>
 
 <p align="center">
   <img src="assets/card-multistore.svg" width="100%" alt="Multi-Store Commerce Platform" />
 </p>
 
-**Multi-Store Commerce Platform** — client project, in production · *Node.js, Firebase Functions, Firestore, BigQuery, Pub/Sub, React, Polaris*
+**Multi-Store Commerce Platform** — freelance, in production · *Node.js, Firebase Functions, Firestore, BigQuery, Pub/Sub, React, Polaris*
 - One dashboard to run many online stores: orders, products, tracking, finance and email in one place.
 - Cross-store orders with fulfilment, refunds and disputes (evidence PDF); bulk product import via bulk operations.
 - 17TRACK shipment sync with a public buyer tracking page; Google Sheets order sync.
@@ -79,9 +81,9 @@ Full-stack engineer and team leader with **5+ years in e-commerce**. My daily st
 - **AI Operations Platform** — 70+ specialised AI agents for support, QA, code review, security scans and releases, with human approval on key decisions. *TypeScript, Bun, SQLite, Claude.*
 - **Desktop Agent Runtime** — cross-platform desktop app with a durable job queue, offline SQLite and an MCP client. *Rust, Tauri 2.*
 - **Nhịp** — native mobile app (lunar calendar, spending, habits, trips) for iOS and Android with a Go API. *SwiftUI, Jetpack Compose, Go, Postgres.*
-- **Operations CRM** — tickets, inbound mail, customer timeline and approvals. *Go, Postgres, React.*
-- **Account Portal** — customer accounts with Google sign-in, TOTP 2FA and sessions. *Go, Postgres, React.*
-- **Mail Platform** — self-hosted email: campaigns, automated flows and delivery stats. *Go, Postal, Postgres.*
+- **Operations CRM** (freelance) — tickets, inbound mail, customer timeline and approvals. *Go, Postgres, React.*
+- **Account Portal** (freelance) — customer accounts with Google sign-in, TOTP 2FA and sessions. *Go, Postgres, React.*
+- **Mail Platform** (freelance) — self-hosted email: campaigns, automated flows and delivery stats. *Go, Postal, Postgres.*
 
 <sub>Source code is private. Happy to walk through the architecture on a call.</sub>
 
