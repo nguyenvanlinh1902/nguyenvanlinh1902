@@ -11,11 +11,19 @@
 
 ## About
 
-I am a full-stack engineer. I design, build, ship and operate products end to end — backend, web, desktop and mobile — and I keep them running in production.
+I am a full-stack engineer and team leader with 5+ years in e-commerce, from Magento 2 to app development. I design, build, ship and operate products end to end — backend, web, desktop and mobile — and I keep them running in production.
 
 Most of my recent work is in **Go** and **TypeScript**: APIs and background workers on Postgres, React front ends, a **Rust/Tauri** desktop app, and native mobile apps in **SwiftUI** and **Jetpack Compose**. I also built an **AI operations platform** where 70+ specialised agents handle support, QA, code review, security scans and releases, with a person approving only the decisions that matter.
 
 What I care about: typed APIs, honest migrations, CI that blocks bad merges, observability, backups and rollbacks.
+
+<br/>
+
+## Experience
+
+<p align="center">
+  <img src="assets/experience.svg" width="100%" alt="Experience: Magento 2 developer from May 2021, Magento team leader 2023 to July 2024, Shopify app developer July 2024 to August 2025, team leader since August 2025" />
+</p>
 
 <br/>
 
@@ -51,10 +59,11 @@ What I care about: typed APIs, honest migrations, CI that blocks bad merges, obs
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,react,bun,nodejs,rust,tauri,swift,kotlin,postgres,sqlite,redis,docker,linux,nginx,cloudflare,githubactions,gitlab&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,ts,php,react,bun,nodejs,rust,tauri,swift,kotlin,postgres,mysql,sqlite,redis,docker,linux,nginx,cloudflare,githubactions,gitlab&perline=10&theme=dark" />
 </p>
 
 **Backend** — Go (chi, pgx), TypeScript on Bun/Node, Postgres, SQLite, REST and GraphQL, OAuth, JWT, 2FA<br/>
+**E-commerce** — Magento 2 (custom modules, integrations), app development for commerce platforms<br/>
 **Apps** — React web apps, Rust + Tauri 2 desktop, SwiftUI (iOS), Jetpack Compose (Android)<br/>
 **AI** — Claude agents, MCP servers, agent evaluation and self-improvement loops<br/>
 **Ops** — Docker, VPS deploys with health checks and rollback, self-hosted mail (Postal), CI/CD, Sentry

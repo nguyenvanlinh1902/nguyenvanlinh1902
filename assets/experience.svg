@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="498" viewBox="0 0 1200 498">
+<defs><style>.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.pulse{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#f59e0b" stop-opacity=".5"/></linearGradient></defs>
+<rect width="1200" height="498" rx="18" fill="url(#g)"/>
+<rect x=".5" y=".5" width="1199" height="497" rx="17.5" fill="none" stroke="#fff" stroke-opacity=".08"/>
+<rect x="299" y="60" width="2" height="336" fill="url(#line)"/>
+<text x="268" y="68" text-anchor="end" class="m" font-size="15" fill="#94a3b8">Aug 2025 — Present</text>
+<circle cx="300" cy="62" r="13" fill="#34d399" opacity=".25" class="pulse"/>
+<circle cx="300" cy="62" r="7" fill="#0b1020" stroke="#34d399" stroke-width="3"/>
+<text x="336" y="70" class="s" font-size="22" font-weight="700" fill="#f8fafc">Team Leader</text>
+<text x="336" y="100" class="s" font-size="16" fill="#94a3b8">Lead a development team: architecture, planning, code review and delivery</text>
+<g transform="translate(487.5,52)"><rect width="68" height="24" rx="12" fill="#34d399" fill-opacity=".15" stroke="#34d399" stroke-opacity=".5"/><text x="34" y="16" text-anchor="middle" class="m" font-size="12" fill="#34d399">now</text></g>
+<text x="268" y="180" text-anchor="end" class="m" font-size="15" fill="#94a3b8">Jul 2024 — Aug 2025</text>
+<circle cx="300" cy="174" r="7" fill="#0b1020" stroke="#38bdf8" stroke-width="3"/>
+<text x="336" y="182" class="s" font-size="22" font-weight="700" fill="#f8fafc">App Developer · Shopify</text>
+<text x="336" y="212" class="s" font-size="16" fill="#94a3b8">Built apps end to end: backend, admin UI, billing and app review</text>
+<text x="268" y="292" text-anchor="end" class="m" font-size="15" fill="#94a3b8">2023 — Jul 2024</text>
+<circle cx="300" cy="286" r="7" fill="#0b1020" stroke="#a78bfa" stroke-width="3"/>
+<text x="336" y="294" class="s" font-size="22" font-weight="700" fill="#f8fafc">Team Leader · Magento 2</text>
+<text x="336" y="324" class="s" font-size="16" fill="#94a3b8">Led the Magento team: task planning, code review and releases</text>
+<text x="268" y="404" text-anchor="end" class="m" font-size="15" fill="#94a3b8">May 2021 — 2023</text>
+<circle cx="300" cy="398" r="7" fill="#0b1020" stroke="#f59e0b" stroke-width="3"/>
+<text x="336" y="406" class="s" font-size="22" font-weight="700" fill="#f8fafc">Developer · Magento 2</text>
+<text x="336" y="436" class="s" font-size="16" fill="#94a3b8">Started as an intern; built Magento 2 stores, custom modules and integrations</text>
+</svg>
