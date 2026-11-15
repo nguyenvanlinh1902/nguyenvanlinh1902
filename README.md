@@ -112,6 +112,17 @@ Full-stack engineer and team leader with **5+ years in e-commerce**. My daily st
 
 <br/>
 
+## Currently learning
+
+- **System design** — scaling, caching, queues, consistency and reliability; one design exercise a week on systems I have built.
+- **SQL in depth** — indexes, query plans, transactions and isolation in PostgreSQL.
+- **Spoken English** — daily practice, working towards presenting a system design in English.
+- **Next:** Google Cloud Associate Cloud Engineer certification.
+
+See the full 12-week plan: [learning roadmap](docs/learning-roadmap.md).
+
+<br/>
+
 ## Education
 
 <p align="center">
