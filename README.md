@@ -110,7 +110,6 @@ Full-stack engineer and team leader with **5+ years in e-commerce**. My daily st
 
 - **System design** — scaling, caching, queues, consistency and reliability.
 - **SQL in depth** — indexes, query plans, transactions and isolation in PostgreSQL.
-- **Spoken English** — daily practice, working towards presenting a system design in English.
 - **Next:** Google Cloud Associate Cloud Engineer certification.
 
 <br/>
@@ -122,13 +121,6 @@ Full-stack engineer and team leader with **5+ years in e-commerce**. My daily st
 </p>
 
 **Engineer's degree, Information Technology** — Academy of Cryptography Techniques (Học viện Kỹ thuật Mật mã), Hà Nội · *Graduated 2025*
-
-<br/>
-
-## Languages
-
-- **Vietnamese** — native
-- **English** — reading: comfortable with technical documentation, specs and API references
 
 <br/>
 
