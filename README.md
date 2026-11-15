@@ -89,12 +89,6 @@ Full-stack engineer and team leader with **5+ years in e-commerce**. My daily st
 
 <br/>
 
-## Open source
-
-**[firebase-webhook-starter](https://github.com/nguyenvanlinh1902/firebase-webhook-starter)** — receive commerce webhooks on Firebase Cloud Functions: HMAC verification, idempotent intake with Firestore, Pub/Sub processing that ignores out-of-order events. *Node.js, Express, Firestore, Pub/Sub; tested with node:test, CI on GitHub Actions.*
-
-<br/>
-
 ## Skills
 
 <p>
